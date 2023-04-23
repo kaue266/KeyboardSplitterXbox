@@ -17,7 +17,7 @@
         LeftExtraUp = 0x80,
         RightExtraDown = 0x100,
         RightExtraUp = 0x200,
-        MouseWheelVertical = 0x400,
+        MouseWheelVertical = 0x300,
         MouseWheelHorizontal = 0x800,
         MouseMove = 0x1000,
     }

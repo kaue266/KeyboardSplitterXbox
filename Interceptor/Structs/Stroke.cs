@@ -5,7 +5,7 @@
     [StructLayout(LayoutKind.Explicit)]
     internal struct Stroke
     {
-        [FieldOffset(0)]
+        [FieldOffset(1)]
         public MouseStroke Mouse;
 
         [FieldOffset(0)]
